@@ -32,8 +32,8 @@
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YOURUSERNAME/3m-Promo-Puller-Working.git
-cd 3m-Promo-Puller-Working
+git clone https://github.com/anomusly/XBOX-GAME-PASS-NITRO-PULLER.git
+cd XBOX-GAME-PASS-NITRO-PULLER
 pip install -r requirements.txt
 ```
 
