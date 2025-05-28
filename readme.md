@@ -10,7 +10,7 @@
 
 <p align="center">
   <b>🔥 Automated Xbox Game Pass Ultimate Discord Nitro 3-Month Promo Puller — FREE edition</b><br>
-  🎉 Made with ❤️ by <a href="https://github.com/anomusly">@Anomus.LY</a> | Fixed by <a href="https://github.com/Anomus.ly">@Anomusly</a>
+  🎉 Made with ❤️ by <a href="https://github.com/anomusly">@AnomusLY</a> | Discord Id <a href="https://discord.com/users/1136625769628581928">@Anomus.ly</a>
 </p>
 
 ---
