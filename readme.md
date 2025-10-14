@@ -1,116 +1,80 @@
-100 stars🌟 = automatic gen improvements
-
 # ⚡ XBOX GAME PASS NITRO PULLER v1.2
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-FREE%20TOOL-green?style=for-the-badge" alt="status" />
-  <img src="https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge" alt="platform" />
-  <img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge" alt="language" />
-</p>
+🔥 Automated Xbox Game Pass → Discord Nitro 3-Month Promo Puller — FREE Tool (outdate)
+Contact For New Tool Or Visit Our Store
+---
 
-<p align="center">
-  <b>🔥 Automated Xbox Game Pass Ultimate Discord Nitro 3-Month Promo Puller — FREE edition</b><br>
-  🎉 Made with ❤️ by <a href="https://github.com/anomusly">@AnomusLY</a> | Discord Id <a href="https://discord.com/users/1136625769628581928">@Anomus.ly</a>
-</p>
+## 🚀 Setup
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone <url>
+   cd XBOX-GAME-PASS-NITRO-PULLER
+   ```
+
+2. **Install requirements:**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Run the tool:**
+
+   ```bash
+   python main.py
+   ```
+
+---
+
+## 🎯 About
+
+A fast and lightweight **Xbox Game Pass Nitro Promo Puller** built with Python.
+It automatically authenticates Xbox accounts, checks Game Pass Ultimate eligibility, and fetches 3-month **Discord Nitro** promo links — all in one go.
+
+> ⚠️ This project is for **educational and testing purposes only**.
+> Using unauthorized accounts or redeeming promos may violate platform terms.
 
 ---
 
 ## ✨ Features
 
-- ✅ **Multi-threaded processing** for faster promo pulling
-- 🔐 **Xbox Live authentication** with device token generation
-- 🎮 **Game Pass Ultimate integration** for Discord Nitro promos
-- 📝 **Smart credential parsing** (supports `:` and `|` delimiters)
-- 🛡️ **Proxy support** for enhanced anonymity
-- 💾 **Auto-saves promo links** to `promos.txt`
-- 🧹 **Auto-removes used accounts** from account list
-- 🔄 **Robust error handling** and retry mechanisms
-- 📊 **Real-time logging** with colored output
+* ⚡ Multi-threaded promo pulling
+* 🔐 Xbox Live + device token authentication
+* 🎮 Game Pass Ultimate → Discord Nitro integration
+* 🛡️ Proxy support for anonymity
+* 💾 Auto-saves promo links to `promos.txt`
+* 🧹 Removes used accounts automatically
+* 📊 Real-time colored logging
 
 ---
 
-## 📦 Installation
+## 💰 Support This Project
 
-```bash
-git clone https://github.com/anomusly/XBOX-GAME-PASS-NITRO-PULLER.git
-cd XBOX-GAME-PASS-NITRO-PULLER
-pip install -r requirements.txt
-```
+Enjoying this project? Your support helps fund updates & new tools ❤️
 
-### 📋 Requirements
+### **Donate via Litecoin**
 
-```
-requests
-tls-client
-cryptography
-colorama
-```
+`Lcahn9iL4KctFwpeDF17VhUA7v9VqHmJfV`
 
 ---
 
-## 🚀 Usage
+## 📬 Contact the Creator
 
-1. **Add your Xbox Game Pass Ultimate accounts** to `accs.txt`:
-   ```
-   email@example.com:password123
-   email2@example.com|password456
-   ```
-
-2. **Optional: Add proxies** to `proxies.txt` (one per line):
-   ```
-   ip:port:username:password
-   ip:port
-   ```
-
-3. **Run the tool**:
-   ```bash
-   python main.py
-   ```
-
-4. **Enter number of threads** when prompted
-
-5. **Check `promos.txt`** for your Discord Nitro promo codes!
+📩 **Discord:** `anomus.ly`
 
 ---
 
-<pre style="color: hotpink; font-weight: bold;">
- ██████╗  █████╗ ███╗   ███╗███████╗██████╗  █████╗ ███████╗███████╗
-██╔════╝ ██╔══██╗████╗ ████║██╔════╝██╔══██╗██╔══██╗██╔════╝██╔════╝
-██║  ███╗███████║██╔████╔██║█████╗  ██████╔╝███████║███████╗███████╗
-██║   ██║██╔══██║██║╚██╔╝██║██╔══╝  ██╔═══╝ ██╔══██║╚════██║╚════██║
-╚██████╔╝██║  ██║██║ ╚═╝ ██║███████╗██║     ██║  ██║███████║███████║
- ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝
-</pre>
+## ⚙️ Need a Custom Tool?
 
-## 🧾 Example Usage Flow
+Need something unique?
+DM me on Discord with your idea and budget!
 
-1. 🔐 **Authenticate** with Microsoft/Xbox Live
-2. 🎮 **Access Game Pass Ultimate** benefits
-3. 🎁 **Fetch Discord Nitro** 3-month promo codes
-4. 💾 **Save promo links** to `promos.txt`
-5. 🧹 **Remove used accounts** automatically
-
-## ⚠️ Important Notes
-
-- ⚡ **This is NOT an account checker** - only use valid Xbox Game Pass Ultimate accounts
-- 🔍 **Use [MSMC](https://github.com/MachineKillin/MSMC)** to verify accounts have Game Pass Ultimate
-- 🎯 **Accounts must be eligible** for Discord Nitro promotions
-- 🔄 **Used accounts are automatically removed** from the list
-
-## 💸 Support Development
-
-If this tool saved you time or helped you out, feel free to donate 💰:
-
-**Litecoin (LTC)**: `ltc1qrw6ns4sxcngy9mjz8u96kn25clks858lwgtarr`
-
-## 📞 Contact & Support
-
-- 💬 **Discord**: `Anomus.ly`
-- 🛠️ **Custom Tools**: DM me on Discord with details and budget
-- 🐛 **Issues**: Open an issue on GitHub
+🛍️ Store: [https://anomus.mysellauth.com/](https://anomus.mysellauth.com/)
 
 ---
 
-<p align="center">
-  <b>⭐ If this tool helped you, please give it a star! ⭐</b>
-</p>
+## ⚖️ Disclaimer
+
+> This project is made for **educational and research purposes only**.
+> The creator is **not responsible** for misuse, account bans, or policy violations.
