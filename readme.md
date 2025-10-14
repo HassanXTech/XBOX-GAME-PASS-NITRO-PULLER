@@ -1,7 +1,7 @@
 # ⚡ XBOX GAME PASS NITRO PULLER v1.2
 
 🔥 Automated Xbox Game Pass → Discord Nitro 3-Month Promo Puller — FREE Tool (outdate)
-Contact For New Tool Or Visit Our Store
+# Contact For New Tool Or Visit Our Store
 ---
 
 ## 🚀 Setup
@@ -34,18 +34,6 @@ It automatically authenticates Xbox accounts, checks Game Pass Ultimate eligibil
 
 > ⚠️ This project is for **educational and testing purposes only**.
 > Using unauthorized accounts or redeeming promos may violate platform terms.
-
----
-
-## ✨ Features
-
-* ⚡ Multi-threaded promo pulling
-* 🔐 Xbox Live + device token authentication
-* 🎮 Game Pass Ultimate → Discord Nitro integration
-* 🛡️ Proxy support for anonymity
-* 💾 Auto-saves promo links to `promos.txt`
-* 🧹 Removes used accounts automatically
-* 📊 Real-time colored logging
 
 ---
 
