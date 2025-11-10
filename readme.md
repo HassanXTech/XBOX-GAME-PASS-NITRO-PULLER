@@ -58,7 +58,7 @@ Enjoying this project? Your support helps fund updates & new tools ❤️
 Need something unique?
 DM me on Discord with your idea and budget!
 
-🛍️ Store: [https://anomus.mysellauth.com/](https://anomus.mysellauth.com/)
+🛍️ Store: [https://axilon.mysellauth.com/](https://axilon.mysellauth.com/)
 
 ---
 
