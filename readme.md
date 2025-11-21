@@ -32,7 +32,7 @@
 A fast and lightweight **Xbox Game Pass Nitro Promo Puller** built with Python.
 It automatically authenticates Xbox accounts, checks Game Pass Ultimate eligibility, and fetches 3-month **Discord Nitro** promo links — all in one go.
 
-> ⚠️ This project is for **educational and testing purposes only**.
+> ⚠️ This project is for **educational and testing purposes only**
 > Using unauthorized accounts or redeeming promos may violate platform terms.
 
 ---
