@@ -56,7 +56,7 @@ Enjoying this project? Your support helps fund updates & new tools ❤️
 ## ⚙️ Need a Custom Tool?
 
 Need something unique?
-DM me on Discord with your idea and budget!
+DM me on Discord with your idea and budget
 
 🛍️ Store: [https://axilon.mysellauth.com/](https://axilon.mysellauth.com/)
 
