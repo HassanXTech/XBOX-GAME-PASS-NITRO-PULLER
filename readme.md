@@ -1,6 +1,6 @@
 # ⚡ XBOX GAME PASS NITRO PULLER v1.2
 
-🔥 Automated Xbox Game Pass → Discord Nitro 3-Month Promo Puller — FREE Tool (outdate)
+🔥 Automated Xbox Game Pass → Discord Nitro 3-Month Promo Puller — FREE Tool [outdate](https://axilon.mysellauth.com/)
 # Contact For New Tool Or Visit Our Store
 ---
 
